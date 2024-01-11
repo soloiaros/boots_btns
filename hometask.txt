@@ -1,2 +1,9 @@
 Ветки master и demo не отличаются по хранящейся в них информации, но имеют разные коммиты
 
+Коммиты удаленного репозитория:
+init,
+heat added
+boots
+README added
+dots
+fix readme
